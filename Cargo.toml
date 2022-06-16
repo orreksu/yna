@@ -1,0 +1,17 @@
+[package]
+name = "yna"
+description = "Task scripting"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+documentation = "https://docs.rs/yna"
+repository = "https://github.com/orreksu/yna"
+homepage = "https://github.com/orreksu/yna"
+readme = "README.md"
+keywords = ["yes", "no"]
+categories = ["development-tools"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
